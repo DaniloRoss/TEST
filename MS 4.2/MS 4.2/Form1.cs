@@ -13,6 +13,7 @@ namespace MS_4._2
         List<Atleta> eleatleti = new List<Atleta>();
         public Form1()
         {
+            //
             InitializeComponent();
             #region inizializzazione
             var gruppo1 = new Gruppo("Veloci", "Via Papa Giovanni", "Silvio Berlusconi", "035 678 8778", "alpha@gmail.com");            
