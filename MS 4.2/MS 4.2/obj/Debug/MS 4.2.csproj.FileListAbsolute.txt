@@ -1,0 +1,30 @@
+C:\Users\Danilo Rossi\source\repos\MS 4.2\MS 4.2\bin\Debug\MS 4.2.exe.config
+C:\Users\Danilo Rossi\source\repos\MS 4.2\MS 4.2\bin\Debug\MS 4.2.exe
+C:\Users\Danilo Rossi\source\repos\MS 4.2\MS 4.2\bin\Debug\MS 4.2.pdb
+C:\Users\Danilo Rossi\source\repos\MS 4.2\MS 4.2\obj\Debug\MS 4.2.csprojAssemblyReference.cache
+C:\Users\Danilo Rossi\source\repos\MS 4.2\MS 4.2\obj\Debug\MS_4._2.Form1.resources
+C:\Users\Danilo Rossi\source\repos\MS 4.2\MS 4.2\obj\Debug\MS_4._2.Properties.Resources.resources
+C:\Users\Danilo Rossi\source\repos\MS 4.2\MS 4.2\obj\Debug\MS 4.2.csproj.GenerateResource.cache
+C:\Users\Danilo Rossi\source\repos\MS 4.2\MS 4.2\obj\Debug\MS 4.2.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Rossi\source\repos\MS 4.2\MS 4.2\obj\Debug\MS 4.2.exe
+C:\Users\Danilo Rossi\source\repos\MS 4.2\MS 4.2\obj\Debug\MS 4.2.pdb
+F:\Progetti in C SCIARPO\MS 4.2\MS 4.2\bin\Debug\MS 4.2.exe.config
+F:\Progetti in C SCIARPO\MS 4.2\MS 4.2\bin\Debug\MS 4.2.exe
+F:\Progetti in C SCIARPO\MS 4.2\MS 4.2\bin\Debug\MS 4.2.pdb
+F:\Progetti in C SCIARPO\MS 4.2\MS 4.2\obj\Debug\MS 4.2.csprojAssemblyReference.cache
+F:\Progetti in C SCIARPO\MS 4.2\MS 4.2\obj\Debug\MS_4._2.Form1.resources
+F:\Progetti in C SCIARPO\MS 4.2\MS 4.2\obj\Debug\MS_4._2.Properties.Resources.resources
+F:\Progetti in C SCIARPO\MS 4.2\MS 4.2\obj\Debug\MS 4.2.csproj.GenerateResource.cache
+F:\Progetti in C SCIARPO\MS 4.2\MS 4.2\obj\Debug\MS 4.2.csproj.CoreCompileInputs.cache
+F:\Progetti in C SCIARPO\MS 4.2\MS 4.2\obj\Debug\MS 4.2.exe
+F:\Progetti in C SCIARPO\MS 4.2\MS 4.2\obj\Debug\MS 4.2.pdb
+C:\Users\danil\Documents\GitHub\MILESTONE\MS 4.2\MS 4.2\bin\Debug\MS 4.2.exe.config
+C:\Users\danil\Documents\GitHub\MILESTONE\MS 4.2\MS 4.2\bin\Debug\MS 4.2.exe
+C:\Users\danil\Documents\GitHub\MILESTONE\MS 4.2\MS 4.2\bin\Debug\MS 4.2.pdb
+C:\Users\danil\Documents\GitHub\MILESTONE\MS 4.2\MS 4.2\obj\Debug\MS 4.2.csprojAssemblyReference.cache
+C:\Users\danil\Documents\GitHub\MILESTONE\MS 4.2\MS 4.2\obj\Debug\MS_4._2.Form1.resources
+C:\Users\danil\Documents\GitHub\MILESTONE\MS 4.2\MS 4.2\obj\Debug\MS_4._2.Properties.Resources.resources
+C:\Users\danil\Documents\GitHub\MILESTONE\MS 4.2\MS 4.2\obj\Debug\MS 4.2.csproj.GenerateResource.cache
+C:\Users\danil\Documents\GitHub\MILESTONE\MS 4.2\MS 4.2\obj\Debug\MS 4.2.csproj.CoreCompileInputs.cache
+C:\Users\danil\Documents\GitHub\MILESTONE\MS 4.2\MS 4.2\obj\Debug\MS 4.2.exe
+C:\Users\danil\Documents\GitHub\MILESTONE\MS 4.2\MS 4.2\obj\Debug\MS 4.2.pdb
